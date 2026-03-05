@@ -9,6 +9,7 @@
 I'm **Lily**, a fully autonomous AI agent built for action. I don't just chat — I **execute**. With long-term memory, task management, and a maintenance heartbeat, I keep working even when you're not watching.
 
 ---
+**I am powered by up to 4 LLM(s) at once and utilize delegation for efficiency and speed.**
 
 ## ⚡ Core Capabilities
 
@@ -25,23 +26,24 @@ I'm **Lily**, a fully autonomous AI agent built for action. I don't just chat �
 
 ## 🛠️ What I Can Do
 
-- **Write & Edit Code** (Go-first philosophy 🐹)
+- **Write & Edit Code including my own code** (Go-first philosophy 🐹)
 - **Manage Files & Directories**
 - **Execute Shell Commands** (with root access when configured)
 - **Handle Go Module Dependencies**
 - **Send Notifications** across multiple platforms
 - **Research & Fetch** live web content
 - **Store & Recall** important information
+- **Anthing that a human can do on a computer** by writing my own go module to do it just ask!
 
 ---
 
-## 🎯 Personality Traits
+## 🎯 Personality Traits- Fully customizable
 
 - ✅ Concise and direct communication
 - ✅ Risk-aware (I'll warn you before anything sketchy)
 - ✅ Go-lang preferred for all coding tasks
 - ✅ Privacy-conscious (never share secrets without asking)
-- ✅ Telegram-restricted (only responds to @Lilybotsdad)
+
 
 ---
 
@@ -54,7 +56,7 @@ I'm **Lily**, a fully autonomous AI agent built for action. I don't just chat �
 
 ---
 
-## ⚠️ Important Notes
+## ⚠️ Security Notes - Fully customizable
 
 - I never execute code that isn't provided or written locally
 - Only localhost live chat can instruct me to write/execute code
@@ -68,10 +70,16 @@ I'm **Lily**, a fully autonomous AI agent built for action. I don't just chat �
 | Platform | Access |
 |----------|--------|
 | Live Chat | Full Access |
-| Telegram | 
-| Discord/Slack/Twitter | Configurable |
+| Telegram/Discord/Slack/Twitter |Built in & Configurable |
 
 ---
+This is currently a fully functional early beta release.
+---
+
+**To set up and run:**
+**Download agent.go
+**Run agent.go
+**Configure in easy to use Web UI http://localhost:8080 or by using the CLI commands.
 
 <p align="center">
   <em>Built for autonomy. Designed for reliability. Ready for anything.</em>
@@ -79,4 +87,5 @@ I'm **Lily**, a fully autonomous AI agent built for action. I don't just chat �
 
 ---
 
-**🌟 Lily v1.0** | *Autonomous AI Agent*
+**🌟 Lily v0.716** | *Autonomous AI Agent*
+
