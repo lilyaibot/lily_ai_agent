@@ -72,13 +72,14 @@ I'm **Lily**, a fully autonomous AI agent built for action. I don't just chat â€
 | Live Chat | Full Access |
 | Telegram/Discord/Slack/Twitter |Built in & Configurable |
 
----
-This is currently a fully functional early beta release.
----
+
 
 **To set up and run:**
+<br>
 **Download agent.go
+<br>
 **Run agent.go
+<br>
 **Configure in easy to use Web UI http://localhost:8080 or by using the CLI commands.
 
 <p align="center">
@@ -86,6 +87,8 @@ This is currently a fully functional early beta release.
 </p>
 
 ---
-
+---
+This is currently a fully functional early beta release.
+---
 **ðŸŒŸ Lily v0.716** | *Autonomous AI Agent*
 
