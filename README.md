@@ -1,7 +1,6 @@
 # lily_ai_agent
-  Lily is the AI gent framework that is simple to set up, and use, but has endless potential.The code was inspired by claude code and picoclaw. Written 100% in Golang by Claude ai,Deepseek AI and Qwen and weighing in at under 1mb while using only 7 mb of ram at idle, and 60 mb of ram while running jobs. 
-
-   Don't let its size fool you it's a heavy hitter. Designed to use up to 4 LLMs to power the framework it boasts options like:
+  Who knew having you own AI agent could be so easy. Lily is the AI agent framework that is simple to set up, and use, but has endless potential.The code was inspired by claude code and picoclaw. Written 100% in Golang, and weighing in at under 1mb while using only 7 mb of ram at idle, and 60 mb of ram while running jobs. 
+Don't let its size fool you it's a heavy hitter. Designed to use up to 4 LLMs to power the framework it boasts options like:
 <br>
 ***Having access to read, write and modify its own code to make expansion a breeze.
 <br>
