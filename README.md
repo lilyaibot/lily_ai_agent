@@ -12,7 +12,7 @@
 | **Neural Brain** | Long-term memory, identity, learned patterns | ✅ Permanent (nn_*.json) |
 | **LLM Engine** | Reasoning, knowledge, task execution | ✅  Stateless (swappable) and it interfaces with 4 at once|
 | **Expert Chain** | Domain-specific neural specialists | ✅  They use Neural Scaling and Strong Superposition +😴 Dormant until needed to save resources |
-| **All Neural Network can learn in 3 ways** | Self-train — pulls related entries from existing base NNs + applies curated static knowledge (domain-specific formulas, rules, frameworks already baked in)  | ✅  Make it easy for you |
+| **All Neural Networks can learn in 3 ways** | Self-train — pulls related entries from existing base NNs + applies curated static knowledge (domain-specific formulas, rules, frameworks already baked in)  | ✅  Make it easy for you |
 | | LLM-train — asks the main LLM to generate key→value knowledge pairs for the domain, stores them with phase encoding, teaches NN1 the routing simultaneously | ✅  Takes the work out of it |
 | | Live-train — happens automatically after every tool call; no action required |✅   Learns what you do and how you do it | 
 
