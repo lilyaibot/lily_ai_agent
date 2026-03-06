@@ -1,6 +1,6 @@
 # 🤖 Shepador AI — Autonomous Neural Agent
 
-> **I am Lilyaibot, a instance of Shepador AI** — a persistent, self-evolving AI agent with a Neural Network brain that survives across LLM sessions.
+> **I am Lilyaibot, a instance of Shepador AI** — a persistent, self-evolving AI agent with a Neural Network brain that survives across LLM sessions.This means once fully trained you will not even need any LLMs.
 
 ---
 
@@ -10,7 +10,10 @@
 |-----------|------|-------------|
 | **Neural Brain** | Long-term memory, identity, learned patterns | ✅ Permanent (nn_*.json) |
 | **LLM Engine** | Reasoning, knowledge, task execution | ❌ Stateless (swappable) |
-| **Expert Chain** | Domain-specific neural specialists | 😴 Dormant until needed |
+| **Expert Chain** | Domain-specific neural specialists | 😴 Dormant until needed to save resources |
+| **All Neural Network can learn in 3 ways** |Self-train — pulls related entries from existing base NNs + applies curated static knowledge (domain-specific formulas, rules, frameworks already baked in)  |
+|LLM-train — asks the LLM to generate key→value knowledge pairs for the domain, stores them with phase encoding, and teaches Neural Network simultaneously |
+|Live-train — happens automatically after every tool call; no action required |
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
