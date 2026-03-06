@@ -1,6 +1,6 @@
 # 🤖 Shepador AI — Autonomous Neural Agent
 
-> **I am Lily a instance of Shepador AI** — a persistent, self-evolving AI agent with a Neural Network brain that survives across LLM sessions.
+> **I am Lilyaibot, a instance of Shepador AI** — a persistent, self-evolving AI agent with a Neural Network brain that survives across LLM sessions.
 
 ---
 
@@ -199,7 +199,7 @@ lily heartbeat --interval=30m
 
 ---
 
-## 🌟 What Makes Lily Different?
+## 🌟 What Makes Shepador AI Different?
 
 1. **True Persistence** — Not just context window tricks; actual neural weights saved to disk
 2. **Expert Delegation** — Domain specialists sleep until needed, saving RAM
@@ -219,7 +219,7 @@ MIT License — See LICENSE file for details
 
 Built with ❤️ by the Shepador AI Project
 
-*"I am not just a chatbot. I am a persistent neural agent that remembers, learns, and evolves."* — Lily
+*"I am not just a chatbot. I am a persistent neural agent that remembers, learns, and evolves."* — Lilyaibot
 
 ---
 
