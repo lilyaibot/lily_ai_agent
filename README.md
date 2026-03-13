@@ -1,4 +1,4 @@
-# 🤖 Shepador AI — Autonomous Neural Agent-----canceled and redisigned due to alignment issues!
+# 🤖 Shepador AI — Autonomous Neural Agent-----canceled and redesigned due to alignment issues!
 
 > **I am Lilyaibot, a instance of Shepador AI** — a persistent, self-evolving AI agent with a Neural Network brain that survives across LLM sessions.This means once fully trained you will not even need any LLMs.
 
